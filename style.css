@@ -10,43 +10,51 @@ h1 {
     color: maroon;
     border: solid black 5px;
 }
-#flower {
-    font-size: 50px;
-}
-
 
 li {
     border: solid 1px black;
     display: inline-block;
     padding: 20px;
     margin: 0px 20px 0px 20px;
-    background-color: cadetblue;
+    background-color: rgb(42, 76, 141);
 }
 
 ul {
-    /* border: black solid 1px; */
     text-align: center;
-}
-
-.odd{
-    color: green;
 }
 
 #png1 {
     margin: auto;
-    box-align: center;
+    align: center;
+    color: maroon;
+    font-weight: bold;
 }
 
-.sidebyside {
-    border: solid black 1px;
-    display: inline;
-    /* max-width: 45%; */
+.column1 {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+    color: maroon;
+    font-weight: bold;
 }
 
-article {
-    border: solid black 1px;
-    display: inline-block;
-    width: 700px;
-    padding: 5px;
-    margin: 20px 10ps;
+.column2 {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+    color: maroon;
+    font-weight: bold;  
+}
+
+.column3 {
+    float: left;
+    width: 33.33%;
+    padding: 0px;
+    color: maroon;
+    font-weight: bold;
+}
+
+#Resources {
+    text-align: center;
+    color: maroon;
 }
