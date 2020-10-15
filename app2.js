@@ -1,6 +1,6 @@
-var userBeans1 = prompt('Please enter #1 legume')
-var userBeans2 = prompt('Please enter #2 legume')
-var userBeans3 = prompt('Please enter #3 legume')
+var userBeans1 = prompt('Please enter your favorite color')
+var userBeans2 = prompt('Please enter your favorite number')
+var userBeans3 = prompt('Please enter your favorite city')
 
 document.write(
     '<li>' + userBeans1 + '</li>' +

@@ -1,8 +1,5 @@
 body{
     background-color: rosybrown;
-    /* background-color: rgb(249, 238, 2369);
-    background-color: #f9eeec;
-    background-color: red; */
 }
 
 h1 {
@@ -59,5 +56,6 @@ ul {
 
 #Resources {
     text-align: center;
-    color: maroon;  
+    color: maroon;
+    border: solid black 5px;  
 } 
