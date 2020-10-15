@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: rosybrown;
     /* background-color: rgb(249, 238, 2369);
     background-color: #f9eeec;
     background-color: red; */
@@ -7,12 +7,13 @@ body{
 
 h1 {
     text-align: center;
-    color: red;
-    border: solid black 1px;
+    color: maroon;
+    border: solid black 5px;
 }
 #flower {
     font-size: 50px;
 }
+
 
 li {
     border: solid 1px black;
@@ -31,8 +32,9 @@ ul {
     color: green;
 }
 
-#hero {
-    text-align: center;
+#png1 {
+    margin: auto;
+    box-align: center;
 }
 
 .sidebyside {
