@@ -30,6 +30,9 @@ ul {
     font-weight: bold;
 }
 
+.img {
+    align: center;
+}
 .column1 {
     float: left;
     box-align: center;
