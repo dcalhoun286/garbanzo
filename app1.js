@@ -1,13 +1,11 @@
-var userName = prompt('please enter your name')
+function countBeans(){
+    var image = '<img src="garbanzo.png" alt="garbanzo">';
+    var output = '';
+    var count = prompt('How many bowls of garbanzo beans would you like?');
 
-alert('Hello' + userName);
+    for (var index =0; index < count; index++){
+        output += image
+    }
 
-    if(userName == 'Dar-Ci'){
-            document.write('Welcome back, Dar-Ci!')
-    }
-        else if(userName == 'William'){
-            document.write('Welcome back, William!')
-    }
-        else {
-            document.write("Welcome," + userName)
-    } 
+    return output;
+}
