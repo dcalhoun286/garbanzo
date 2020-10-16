@@ -7,6 +7,8 @@ function favThings(color, number, city){
     }
     var city = prompt('Please enter your favorite city.')
 
+    alert('Awesome! ' + city + ' is my favorite city, too!');
+
     return document.write(
         '<li>' + color + '</li>' +
         '<li>' + number + '</li>' +
