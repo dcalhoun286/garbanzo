@@ -23,7 +23,8 @@ ul {
 #png1 {
     margin: auto;
     box-align: center;
-    color: maroon;
+    color: rgba(37,142,255,1)
+
     font-weight: bold;
 }
 
