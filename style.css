@@ -33,7 +33,9 @@ ul {
 }
 .column1 {
     float: left;
+    text-align: center;
     width: 33.33%;
+    margin: 0px;
     padding: 0px;
     color: maroon;
     font-weight: bold;
@@ -41,7 +43,9 @@ ul {
 
 .column2 {
     float: left;
+    text-align: center;
     width: 33.33%;
+    margin: 0px;
     padding: 0px;
     color: rgb(43, 41, 41);
     font-weight: bold;  
@@ -49,7 +53,9 @@ ul {
 
 .column3 {
     float: left;
+    text-align: center;
     width: 33.33%;
+    margin: 0px;
     padding: 0px;
     color: maroon;
     font-weight: bold;
